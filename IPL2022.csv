@@ -1,0 +1,75 @@
+match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_ings_score,first_ings_wkts,second_ings_score,second_ings_wkts,margin,highscore,match_winner,won_by,player_of_the_match,top_scorer,best_bowling,best_bowling_figure
+1,"March 26,2022","Wankhede Stadium, Mumbai",Chennai,Kolkata,Group,Kolkata,Field,131,5,133,4,6,50,Kolkata,Wickets,Umesh Yadav,MS Dhoni,Dwayne Bravo,3--20
+2,"March 27,2022","Brabourne Stadium, Mumbai",Delhi,Mumbai,Group,Delhi,Field,177,5,179,6,4,81,Delhi,Wickets,Kuldeep Yadav,Ishan Kishan,Kuldeep Yadav,3--18
+3,"March 27,2022","Dr DY Patil Sports Academy, Mumbai",Banglore,Punjab,Group,Punjab,Field,205,2,208,5,5,88,Punjab,Wickets,Odean Smith,Faf du Plessis,Mohammed Siraj,2--59
+4,"March 28,2022","Wankhede Stadium, Mumbai",Gujarat,Lucknow,Group,Gujarat,Field,158,6,161,5,5,55,Gujarat,Wickets,Mohammed Shami,Deepak Hooda,Mohammed Shami,3--25
+5,"March 29,2022","Maharashtra Cricket Association Stadium,Pune",Hyderabad,Rajasthan,Group,Hyderabad,Field,210,6,149,7,61,57,Rajasthan,Runs,Sanju Samson,Aiden Markram,Yuzvendra Chahal,3--22
+6,"March 30,2022","Dr DY Patil Sports Academy, Mumbai",Banglore,Kolkata,Group,Banglore,Field,128,10,132,7,3,28,Banglore,Wickets,Wanindu Hasaranga,Sherfane Rutherford,Wanindu Hasaranga,4--20
+7,"March 31,2022","Brabourne Stadium, Mumbai",Chennai,Lucknow,Group,Lucknow,Field,210,7,211,4,6,61,Lucknow,Wickets,Evin Lewis,Quinton de Kock,Ravi Bishnoi,2--24
+8,"April 1,2022","Wankhede Stadium, Mumbai",Kolkata,Punjab,Group,Kolkata,Field,137,10,141,4,6,70,Kolkata,Wickets,Umesh Yadav,Andre Russell,Umesh Yadav,4--23
+9,"April 2,2022","Dr DY Patil Sports Academy, Mumbai",Mumbai,Rajasthan,Group,Mumbai,Field,193,8,170,8,23,100,Rajasthan,Runs,Jos Buttler,Jos Buttler,Jasprit Bumrah,3--17
+10,"April 2,2022","Maharashtra Cricket Association Stadium,Pune",Delhi,Gujarat,Group,Delhi,Field,171,6,157,9,14,84,Gujarat,Runs,Lockie Ferguson,Shubman Gill,Lockie Ferguson,4--28
+11,"April 3,2022","Brabourne Stadium, Mumbai",Chennai,Punjab,Group,Chennai,Field,180,8,126,10,54,60,Punjab,Runs,Liam Livingstone,Liam Livingstone,Rahul Chahar,3--25
+12,"April 4,2022","Dr DY Patil Sports Academy, Mumbai",Hyderabad,Lucknow,Group,Hyderabad,Field,169,7,157,9,12,68,Lucknow,Runs,Avesh Khan,KL Rahul,Avesh Khan,4--24
+13,"April 5,2022","Wankhede Stadium, Mumbai",Banglore,Rajasthan,Group,Banglore,Field,169,3,173,6,4,70,Banglore,Wickets,Dinesh Karthik,Jos Buttler,Yuzvendra Chahal,2--15
+14,"April 6,2022","Maharashtra Cricket Association Stadium,Pune",Kolkata,Mumbai,Group,Kolkata,Field,161,4,162,5,5,56,Kolkata,Wickets,Pat Cummins,Pat Cummins,Murugan Ashwin,2--25
+15,"April 7,2022","Dr DY Patil Sports Academy, Mumbai",Delhi,Lucknow,Group,Lucknow,Field,149,3,155,4,6,80,Lucknow,Wickets,Quinton de Kock,Quinton de Kock,Ravi Bishnoi,2--22
+16,"April 8,2022","Brabourne Stadium, Mumbai",Gujarat,Punjab,Group,Gujarat,Field,189,9,190,4,6,96,Gujarat,Wickets,Shubman Gill,Shubman Gill,Rashid Khan,3--22
+17,"April 9,2022","Dr DY Patil Sports Academy, Mumbai",Chennai,Hyderabad,Group,Hyderabad,Field,154,7,155,2,8,75,Hyderabad,Wickets,Abhishek Sharma,Abhishek Sharma,Washington Sundar,2--21
+18,"April 9,2022","Maharashtra Cricket Association Stadium,Pune",Banglore,Mumbai,Group,Banglore,Field,151,6,152,3,7,68,Banglore,Wickets,Anuj Rawat,Suryakumar Yadav,Harshal Patel,2--23
+19,"April 10,2022","Brabourne Stadium, Mumbai",Delhi,Kolkata,Group,Kolkata,Field,215,5,171,10,44,61,Delhi,Runs,Kuldeep Yadav,David Warner,Kuldeep Yadav,4--35
+20,"April 10,2022","Wankhede Stadium, Mumbai",Lucknow,Rajasthan,Group,Lucknow,Field,165,6,162,8,3,59,Rajasthan,Runs,Yuzvendra Chahal,Shimron Hetmyer,Yuzvendra Chahal,4--41
+21,"April11,2022","Dr DY Patil Sports Academy, Mumbai",Gujarat,Hyderabad,Group,Hyderabad,Field,162,7,168,2,8,57,Hyderabad,Wickets,Kane Williamson,Kane Williamson,T Natarajan,2--34
+22,"April 12,2022","Dr DY Patil Sports Academy, Mumbai",Banglore,Chennai,Group,Banglore,Field,216,4,193,9,23,95,Chennai,Runs,Shivam Dube,Shivam Dube,Maheesh Theekshana,4--33
+23,"April 13,2022","Maharashtra Cricket Association Stadium,Pune",Mumbai,Punjab,Group,Mumbai,Field,198,5,186,9,12,70,Punjab,Runs,Mayank Agarwal,Shikhar Dhawan,Odean Smith,4--30
+24,"April 14,2022","Dr DY Patil Sports Academy, Mumbai",Gujarat,Rajasthan,Group,Rajasthan,Field,192,4,155,9,37,87,Gujarat,Runs,Hardik Pandya,Hardik Pandya,Lockie Ferguson,3--23
+25,"April 15,2022","Brabourne Stadium, Mumbai",Hyderabad,Kolkata,Group,Hyderabad,Field,175,8,176,3,7,71,Hyderabad,Wickets,Rahul Tripathi,Rahul Tripathi,T Natarajan,3--37
+26,"April 16,2022","Brabourne Stadium, Mumbai",Lucknow,Mumbai,Group,Mumbai,Field,199,4,181,9,18,103,Lucknow,Runs,K L Rahul,KL Rahul,Avesh Khan,3--30
+27,"April 16,2022","Wankhede Stadium, Mumbai",Banglore,Delhi,Group,Delhi,Field,189,5,173,7,16,66,Banglore,Runs,Dinesh Karthik,Dinesh Karthik,Josh Hazlewood,3--28
+28,"April 17,2022","Dr DY Patil Sports Academy, Mumbai",Hyderabad,Punjab,Group,Hyderabad,Field,151,10,152,3,7,60,Hyderabad,Wickets,Umran Malik,Liam Livingstone,Umran Malik,4--28
+29,"April 17,2022","Maharashtra Cricket Association Stadium,Pune",Chennai,Gujarat,Group,Gujarat,Field,169,5,170,7,3,94,Gujarat,Wickets,David Miller,David Miller,Dwayne Bravo,3--23
+30,"April 18,2022","Brabourne Stadium, Mumbai",Kolkata,Rajasthan,Group,Kolkata,Field,217,5,210,10,7,103,Rajasthan,Runs,Yuzvendra Chahal,Jos Buttler,Yuzvendra Chahal,5--40
+31,"April 19,2022","Dr DY Patil Sports Academy, Mumbai",Banglore,Lucknow,Group,Lucknow,Field,181,6,163,8,18,96,Banglore,Runs,Faf du Plessis,Faf du Plessis,Josh Hazlewood,4--25
+32,"April 20,2022","Brabourne Stadium, Mumbai",Delhi,Punjab,Group,Delhi,Field,115,10,119,1,9,60,Delhi,Wickets,Kuldeep Yadav,David Warner,Axar Patel,2--10
+33,"April 21,2022","Dr DY Patil Sports Academy, Mumbai",Chennai,Mumbai,Group,Chennai,Field,155,7,156,7,3,51,Chennai,Wickets,Mukesh Choudhary,Tilak Varma,Daniel Sams,4--30
+34,"April 22,2022","Wankhede Stadium, Mumbai",Delhi,Rajasthan,Group,Delhi,Field,222,2,207,8,15,116,Rajasthan,Runs,Jos Buttler,Jos Buttler,Prasidh Krishna,3--22
+35,"April 23,2022","Dr DY Patil Sports Academy, Mumbai",Gujarat,Kolkata,Group,Gujarat,Bat,156,9,148,8,8,67,Gujarat,Runs,Rashid Khan,Hardik Pandya,Andre Russell,4--5
+36,"April 23,2022","Brabourne Stadium, Mumbai",Banglore,Hyderabad,Group,Hyderabad,Field,68,10,72,1,9,47,Hyderabad,Wickets,Marco Jansen,Abhishek Sharma,T Natarajan,3--10
+37,"April 24,2022","Wankhede Stadium, Mumbai",Lucknow,Mumbai,Group,Mumbai,Field,168,6,132,8,36,103,Lucknow,Runs,K L Rahul,KL Rahul,Krunal Pandya,3--19
+38,"April 25,2022","Wankhede Stadium, Mumbai",Chennai,Punjab,Group,Chennai,Field,187,4,176,6,11,88,Punjab,Runs,Shikhar Dhawan,Shikhar Dhawan,Kagiso Rabada,2--23
+39,"April 26,2022","Maharashtra Cricket Association Stadium,Pune",Banglore,Rajasthan,Group,Banglore,Field,144,8,115,10,29,56,Rajasthan,Runs,Riyan Parag,Riyan Parag,Kuldeep Sen,4--20
+40,"April 27,2022","Wankhede Stadium, Mumbai",Gujarat,Hyderabad,Group,Gujarat,Field,195,6,199,5,5,68,Gujarat,Wickets,Umran Malik,W. Saha,Umran Malik,5--25
+41,"April 28,2022","Wankhede Stadium, Mumbai",Delhi,Kolkata,Group,Delhi,Field,146,9,150,6,4,57,Delhi,Wickets,Kuldeep Yadav,Nitish Rana,Kuldeep Yadav,4--14
+42,"April 29,2022","Maharashtra Cricket Association Stadium,Pune",Lucknow,Punjab,Group,Punjab,Field,153,8,133,8,20,46,Lucknow,Runs,Krunal Pandya,Quinton de Kock,Kagiso Rabada,4--38
+43,"April 30,2022","Brabourne Stadium, Mumbai",Banglore,Gujarat,Group,Banglore,Bat,170,6,174,4,6,58,Gujarat,Wickets,Rahul Tewatia,Virat Kohli,Pradeep Sangwan,2--19
+44,"April 30,2022","Dr DY Patil Sports Academy, Mumbai",Mumbai,Rajasthan,Group,Mumbai,Field,158,6,161,5,5,67,Mumbai,Wickets,Suruakumar Yadav,Jos Buttler,Rilley Meredith,2--24
+45,"May 1,2022","Wankhede Stadium, Mumbai",Delhi,Lucknow,Group,Lucknow,Bat,195,3,189,7,6,77,Lucknow,Runs,Mohsin Khan,KL Rahul,Mohsin Khan,4--16
+46,"May 1,2022","Maharashtra Cricket Association Stadium,Pune",Chennai,Hyderabad,Group,Hyderabad,Field,202,2,189,6,13,99,Chennai,Runs,Ruturaj Gaikwad,Ruturaj Gaikwad,Mukesh Choudhary,4--46
+47,"May 2,2022","Wankhede Stadium, Mumbai",Kolkata,Rajasthan,Group,Kolkata,Field,152,5,158,3,7,54,Kolkata,Wickets,Rinku Singh,Sanju Samson,Tim Southee,2--46
+48,"May 3,2022","Dr DY Patil Sports Academy, Mumbai",Gujarat,Punjab,Group,Gujarat,Bat,143,8,145,2,8,65,Punjab,Wickets,Kagiso Rabada,Sai Sudharsan,Kagiso Rabada,4--33
+49,"May 4,2022","Maharashtra Cricket Association Stadium,Pune",Banglore,Chennai,Group,Chennai,Field,173,8,160,8,13,56,Banglore,Runs,Harshal Patel,Devon Conway,Maheesh Theekshana,3--27
+50,"May 5,2022","Brabourne Stadium, Mumbai",Delhi,Hyderabad,Group,Hyderabad,Field,207,3,186,8,21,92,Delhi,Runs,David Warner,David Warner,Khaleel Ahmed,3--30
+51,"May 6,2022","Brabourne Stadium, Mumbai",Gujarat,Mumbai,Group,Gujarat,Field,177,6,172,5,5,55,Mumbai,Runs,Tim David,W. Saha,Rashid Khan,2--24
+52,"May 7,2022","Wankhede Stadium, Mumbai",Punjab,Rajasthan,Group,Punjab,Bat,189,5,190,4,6,68,Rajasthan,Wickets,Yashasvi Jaiswal,Yashasvi Jaiswal,Yuzvendra Chahal,3--28
+53,"May 7,2022","Maharashtra Cricket Association Stadium,Pune",Kolkata,Lucknow,Group,Kolkata,Field,176,7,101,10,75,50,Lucknow,Runs,Avesh Khan,Quinton de Kock,Avesh Khan,3--19
+54,"May 8,2022","Wankhede Stadium, Mumbai",Banglore,Hyderabad,Group,Banglore,Bat,192,3,125,10,67,73,Banglore,Runs,Wanindu Hasaranga,Faf du Plessis,Wanindu Hasaranga,5--18
+55,"May 8,2022","Dr DY Patil Sports Academy, Mumbai",Chennai,Delhi,Group,Delhi,Field,208,6,117,10,91,87,Chennai,Runs,Devon Conway,Devon Conway,Moeen Ali,3--13
+56,"May 9,2022","Dr DY Patil Sports Academy, Mumbai",Kolkata,Mumbai,Group,Mumbai,Field,165,9,113,10,52,51,Kolkata,Runs,Jasprit Bumrah,Ishan Kishan,Jasprit Bumrah,5--10
+57,"May 10,2022","Maharashtra Cricket Association Stadium,Pune",Lucknow,Gujarat,Group,Gujarat,Bat,144,4,82,10,62,63,Gujarat,Runs,Shubman Gill,Shubman Gill,Rashid Khan,4--24
+58,"May 11,2022","Dr DY Patil Sports Academy, Mumbai",Delhi,Rajasthan,Group,Delhi,Field,160,6,161,2,8,89,Delhi,Wickets,Mitchell Marsh,Mitchell Marsh,Chetan Sakariya,2--23
+59,"May 12,2022","Wankhede Stadium, Mumbai",Chennai,Mumbai,Group,Mumbai,Field,97,10,103,5,5,36,Mumbai,Wickets,Daniel Sams,MS Dhoni,Daniel Sams,3--16
+60,"May 13,2022","Brabourne Stadium, Mumbai",Banglore,Punjab,Group,Banglore,Field,209,9,155,9,54,70,Punjab,Runs,Jonny Bairstow,Liam Livingstone,Harshal Patel,4--34
+61,"May 14,2022","Maharashtra Cricket Association Stadium,Pune",Hyderabad,Kolkata,Group,Kolkata,Bat,177,6,123,8,54,49,Kolkata,Runs,Andre Russell,Andre Russell,Andre Russell,3--22
+62,"May 15,2022","Wankhede Stadium, Mumbai",Chennai,Gujarat,Group,Chennai,Bat,133,5,137,3,7,67,Gujarat,Wickets,W. Saha,W. Saha,Mohammed Shami,2--19
+63,"May 15,2022","Brabourne Stadium, Mumbai",Lucknow,Rajasthan,Group,Rajasthan,Bat,178,6,154,8,24,59,Rajasthan,Runs,Trent Boult,Deepak Hooda,Trent Boult,2--18
+64,"May 16,2022","Dr DY Patil Sports Academy, Mumbai",Delhi,Punjab,Group,Punjab,Field,159,7,142,9,17,63,Delhi,Runs,Shardul Thakur,Mitchell Marsh,Shardul Takur,4--36
+65,"May 17,2022","Wankhede Stadium, Mumbai",Hyderabad,Mumbai,Group,Mumbai,Field,193,6,190,7,3,76,Hyderabad,Runs,Rahul Tripathi,Rahul Tripathi,Ramandeep Singh,3--20
+66,"May 18,2022","Dr DY Patil Sports Academy, Mumbai",Kolkata,Lucknow,Group,Lucknow,Bat,210,0,208,8,2,140,Lucknow,Runs,Quinton de Kock,Quinton de Kock,Mohsin Khan,3--20
+67,"May 19,2022","Wankhede Stadium, Mumbai",Banglore,Gujarat,Group,Gujarat,Bat,168,5,170,2,8,73,Banglore,Wickets,Virat Kohli,Virat Kohli,Rashid Khan,2--32
+68,"May 20,2022","Brabourne Stadium, Mumbai",Chennai,Rajasthan,Group,Chennai,Bat,150,6,151,5,5,93,Rajasthan,Wickets,R Aswin,Moeen Ali,Prashant Solanki,2--20
+69,"May 21,2022","Wankhede Stadium, Mumbai",Delhi,Mumbai,Group,Mumbai,Field,159,7,160,5,5,48,Mumbai,Wickets,Jasprit Bumrah,Ishan Kishan,Jasprit Bumrah,3--25
+70,"May 22,2022","Wankhede Stadium, Mumbai",Hyderabad,Punjab,Group,Hyderabad,Bat,157,8,160,5,5,49,Punjab,Wickets,Harpreet Brar,Liam Livingstone,Harpreet Brar,3--26
+71,"May 24,2022","Eden Gardens, Kolkata",Gujarat,Rajasthan,Playoff,Gujarat,Field,188,6,191,3,7,89,Gujarat,Wickets,David Miller,Jos Buttler,Hardik Pandya,1--14
+72,"May 25,2022","Eden Gardens, Kolkata",Banglore,Lucknow,Playoff,Lucknow,Field,207,4,193,6,14,112,Banglore,Runs,Rajat Patidar,Rajat Patidar,Josh Hazlewood,3--43
+73,"May 27,2022","Narendra Modi Stadium, Ahmedabad",Banglore,Rajasthan,Playoff,Rajasthan,Field,157,8,161,3,7,106,Rajasthan,Wickets,Jos Buttler,Jos Buttler,Prasidh Krishna,3--22
+74,"May 29,2022","Narendra Modi Stadium, Ahmedabad",Gujarat,Rajasthan,Final,Rajasthan,Bat,130,9,133,3,7,45,Gujarat,Wickets,Hardik Pandya,Shubman Gill,Hardik Pandya,3--17
